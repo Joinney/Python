@@ -1,0 +1,19 @@
+	 Welcome To Bach Hoa Mini
+
+Date and Time: 24/05/2024 19:17:40
+Bill No. : 4649
+Customer Name : tèo 
+Phone No. : 0979755744
+Email : voduyduydlk@gmail.com
+===================================
+Product		Qty		Price
+===================================
+Bread 		2		2
+Hotdog 		3		18
+Food Oil 		2		10
+Salt 		2		2
+Juice 		3		6
+Waffer		2		4
+===================================
+			 Total : $44.1
+	Thank you. See you again !
